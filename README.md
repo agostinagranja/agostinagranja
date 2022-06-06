@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agostinagranja
-- 👀 I’m a starter in Data Science
+- 👀 I’m a starter in Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/agostinagranja) | [Kaggle](https://www.kaggle.com/agostinagranja)
